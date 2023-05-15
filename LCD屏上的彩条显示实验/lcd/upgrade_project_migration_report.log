@@ -1,0 +1,26 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+----------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Nov 12 09:39:35 2022
+| Host         : DESKTOP-CJ3G5DI running 64-bit major release  (build 9200)
+| Command      : upgrade_project -migrate_output_products
+| Project_Path : E:/FPGA/zu02/zu02/AXU2CGA/course_s1_fpga/13_1_lcd7_test/lcd7_test.xpr
+----------------------------------------------------------------------------------------------------
+
+Project Status Summary
+
+1. Project IP Status
+--------------------
+This project contains 1 IP and 0 Block Designs.
+
+
+1.1 Project IP Instances
++-----------+-------------------------+-------------------------------------+-------------------------------------+
+| Instance  | Status                  | Reason                              | Recommendation                      |
+| Name      |                         |                                     |                                     |
++-----------+-------------------------+-------------------------------------+-------------------------------------+
+| video_pll | Will be Migrated.       |                                     |                                     |
++-----------+-------------------------+-------------------------------------+-------------------------------------+
+
+
+

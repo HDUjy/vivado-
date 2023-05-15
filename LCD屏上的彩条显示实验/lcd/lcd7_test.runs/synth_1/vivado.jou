@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat Nov 26 19:46:25 2022
+# Process ID: 23660
+# Current directory: E:/FPGA/fpga/zu02/lcd7_test/lcd7_test.runs/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: E:/FPGA/fpga/zu02/lcd7_test/lcd7_test.runs/synth_1/top.vds
+# Journal file: E:/FPGA/fpga/zu02/lcd7_test/lcd7_test.runs/synth_1\vivado.jou
+# Running On: DESKTOP-CJ3G5DI, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 8, Host memory: 34290 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
